@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.c"
+#include "main.h"
 /**
  * _printf - function my printf
  * @format: string whit format to print
